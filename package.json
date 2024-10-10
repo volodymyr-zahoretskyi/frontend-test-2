@@ -1,0 +1,10 @@
+{
+    "name": "frontend-test-2",
+    "version": "8.20.0",
+    "license": "UNLICENSED",
+    "description": "bla bla bla",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:volodymyr-zahoretskyi/frontend-test-2"
+    }
+}
